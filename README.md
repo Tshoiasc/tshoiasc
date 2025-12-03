@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:1e3a5f&amp;height=220&amp;section=header&amp;text=Yueqianji%20Chen&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20Researcher%20%26%20Creative%20Engineer&amp;descAlignY=55&amp;descSize=18&amp;descAlign=50" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:1e3a5f&amp;height=200&amp;section=header&amp;text=Yueqianji%20Chen&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=40" width="100%" alt="Header"/>
 </p>
+
+<h3 align="center">AI Researcher & Creative Engineer</h3>
 
 <p align="center">
   <b>🔬 Computer Vision</b> • <b>🤖 Multi-Agent Systems</b> • <b>🧠 Computational Neuroscience</b>
@@ -82,15 +84,6 @@ I leverage **Computer Vision** and **Creative Engineering** to decode complex so
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tshoiasc&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshoiasc&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" height="165" alt="Top Languages" />
-</p>
 
 ---
 
