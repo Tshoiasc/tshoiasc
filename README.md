@@ -39,9 +39,9 @@ I leverage **Computer Vision** and **Creative Engineering** to decode complex so
 | :------------------------------------------------------------ | :------------------ | :---------------- | :------------------------------------------------------------------------------------------------ |
 | **Neural Mechanisms of Human–Multi-Agent Cooperation** | Nov 2025 - Present  | Peking University | 3D virtual environment + LLM Agents + fMRI/Eye-tracking                                           |
 | **PressingNet: Motor Control & EEG**                    | Sep 2025 - Present  | Tibet University  | CNNs + Transformers + HSMM,**98.4% accuracy**                                               |
-| **ST-DETrack: Plant Canopy Tracking**                   | Jun 2024 - Nov 2025 | Durham University | Dual-decoder network,**93.6% accuracy**, 0.980 MOTA `<br>` 📄 *IEEE TIP (Under Review)* |
-| **Social Reinforcement Learning**                       | Nov 2024 - Sep 2025 | Peking University | Rescorla-Wagner model, 13,600+ trials, LPA/LTA `<br>` 📄 *Child Development (Under Review)*   |
-| **Transformer Modeling of Moral Updating**              | May 2024 - May 2025 | Peking University | Attention-based cognitive modeling `<br>` 📄 *Developmental Science (In Revision)*            |
+| **ST-DETrack: Plant Canopy Tracking** | Jun 2024 - Nov 2025 | Durham University | Dual-decoder network, **93.6% accuracy**, 0.980 MOTA <br> 📄 *IEEE TIP (Under Review)* |
+| **Social Reinforcement Learning** | Nov 2024 - Sep 2025 | Peking University | Rescorla-Wagner model, 13,600+ trials, LPA/LTA <br> 📄 *Child Development (Under Review)* |
+| **Transformer Modeling of Moral Updating** | May 2024 - May 2025 | Peking University | Attention-based cognitive modeling <br> 📄 *Developmental Science (In Revision)* |
 
 ---
 
