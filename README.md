@@ -40,8 +40,8 @@ I leverage **Computer Vision** and **Creative Engineering** to decode complex so
 | **Neural Mechanisms of Human–Multi-Agent Cooperation** | Nov 2025 - Present  | Peking University | 3D virtual environment + LLM Agents + fMRI/Eye-tracking                                           |
 | **PressingNet: Motor Control & EEG**                    | Sep 2025 - Present  | Tibet University  | CNNs + Transformers + HSMM,**98.4% accuracy**                                               |
 | **ST-DETrack: Plant Canopy Tracking**                   | Jun 2024 - Nov 2025 | Durham University | Dual-decoder network,**93.6% accuracy**, 0.980 MOTA `<br>` 📄 *IEEE TIP (Under Review)* |
-| **Social Reinforcement Learning**                       | Nov 2024 - Sep 2025 | Peking University | Rescorla-Wagner model, 13,600+ trials, LPA/LTA`<br>` 📄 *Child Development (Under Review)*    |
-| **Transformer Modeling of Moral Updating**              | May 2024 - May 2025 | Peking University | Attention-based cognitive modeling`<br>` 📄 *Developmental Science (In Revision)*             |
+| **Social Reinforcement Learning**                       | Nov 2024 - Sep 2025 | Peking University | Rescorla-Wagner model, 13,600+ trials, LPA/LTA `<br>` 📄 *Child Development (Under Review)*   |
+| **Transformer Modeling of Moral Updating**              | May 2024 - May 2025 | Peking University | Attention-based cognitive modeling `<br>` 📄 *Developmental Science (In Revision)*            |
 
 ---
 
@@ -68,9 +68,9 @@ I leverage **Computer Vision** and **Creative Engineering** to decode complex so
   <tr>
     <td><b>2021 - 2023</b></td>
     <td>
-      <b>Co-Founder & Tech Lead</b> @ Shanxi Qingshu Network (山西清曙网络科技有限公司)<br>
-      • <b>WeCampus</b> (We校园) — Campus info platform, 100k+ users<br>
-      • <b>CloudLeap Prime</b> (蓝胖优选) — GCN-based recommendation system<br>
+      <b>Co-Founder & Tech Lead</b> @ Shanxi Qingshu Network Techonlogy Co., Ltd (山西清曙网络科技有限公司)<br>
+      • <b>WeCampus</b> — Campus info platform, 100k+ users<br>
+      • <b>CloudLeap Prime</b> — GCN-based recommendation system<br>
       • 🏅 Internet+ Gold Award (Provincial) + Angel Round Funding<br>
       • 📜 3 Software Copyrights
     </td>
